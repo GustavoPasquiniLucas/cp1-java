@@ -17,7 +17,7 @@ public class Main {
             System.out.println("3 Consultar saldo");
             System.out.println("4 Alterar titular");
             System.out.println("5 Sair");
-            System.out.print("👉 Escolha uma opção: ");
+            System.out.print("Escolha uma opção: ");
 
             int opcao = s.nextInt();
 
